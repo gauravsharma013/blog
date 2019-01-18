@@ -3,7 +3,7 @@ theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
 title = "My New Hugo Site"
-disqusShortname = "shortcode-here"
+disqusShortname = "disqus_352w6PqdwV"
 paginate = 5
 
 [taxonomies]
